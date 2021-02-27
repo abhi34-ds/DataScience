@@ -1,2 +1,2 @@
 # DataScience
-Data Science, Machine Learning and Deep Learning Projects
+Data Science, Machine Learning and Deep Learning Notebooks and projects.
